@@ -46,5 +46,4 @@ npm i
 ```bash
 npm run dev
 ```
-コマンド実行後、ブラウザが自動で開かれ、http://localhost:5173/（または表示されるURL）でReactアプリケーションを確認できます。
 
