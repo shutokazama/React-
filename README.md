@@ -15,7 +15,7 @@ cd ディレクトリ
 ### 2. Viteを使ってプロジェクトを作成
 次に、Viteを使って新しいReactプロジェクトを作成します。以下のコマンドを実行します。
 ```bash
-npm create vite@latest プロジェクト名
+npm create vite@latest プロジェクト名aaaa
 ```
 
 コマンド実行後、以下の選択をします
