@@ -3,16 +3,5 @@
   "references": [
     { "path": "./tsconfig.app.json" },
     { "path": "./tsconfig.node.json" }
-  ],
-  "compilerOptions": {
-    "composite": true,
-    "target": "ESNext",
-    "module": "ESNext",
-    "moduleResolution": "node",
-    "outDir": "./dist",
-    "esModuleInterop": true,
-    "allowJs": true,
-    "strict": true
-  },
-  "include": ["src/**/*.ts", "src/**/*.tsx"]
+  ]
 }
